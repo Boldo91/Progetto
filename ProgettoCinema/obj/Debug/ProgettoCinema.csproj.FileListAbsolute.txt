@@ -1,0 +1,9 @@
+C:\Users\boldorini\source\repos\ProgettoCinema\ProgettoCinema\bin\Debug\ProgettoCinema.dll
+C:\Users\boldorini\source\repos\ProgettoCinema\ProgettoCinema\bin\Debug\ProgettoCinema.pdb
+C:\Users\boldorini\source\repos\ProgettoCinema\ProgettoCinema\bin\Debug\Models.dll
+C:\Users\boldorini\source\repos\ProgettoCinema\ProgettoCinema\bin\Debug\Models.pdb
+C:\Users\boldorini\source\repos\ProgettoCinema\ProgettoCinema\obj\Debug\ProgettoCinema.csprojAssemblyReference.cache
+C:\Users\boldorini\source\repos\ProgettoCinema\ProgettoCinema\obj\Debug\ProgettoCinema.csproj.CoreCompileInputs.cache
+C:\Users\boldorini\source\repos\ProgettoCinema\ProgettoCinema\obj\Debug\ProgettoCinema.csproj.CopyComplete
+C:\Users\boldorini\source\repos\ProgettoCinema\ProgettoCinema\obj\Debug\ProgettoCinema.dll
+C:\Users\boldorini\source\repos\ProgettoCinema\ProgettoCinema\obj\Debug\ProgettoCinema.pdb
